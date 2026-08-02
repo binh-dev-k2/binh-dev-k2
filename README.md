@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="binhcoder02" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/binh-dev-k2" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://github.com/binh-dev-k2" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="binhcoder02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">A proactive Full Stack Developer with 3 years of experience in developing websites, web applications, and desktop applications. Skilled in backend to frontend development using technologies like PHP, Laravel, Node.js, React.js, Vue.js, and Electron.js, with a strong focus on optimizing functionality and user experience. Committed to continuous learning and implementing new technologies to enhance product quality.</h3>**
 
