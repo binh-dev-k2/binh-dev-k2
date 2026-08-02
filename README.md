@@ -4,7 +4,7 @@
 
 # Hey, I'm Trần Nguyên Bình!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=WEB%20%7C%20DESKTOP%20APP%20%7C%20EXTENSION%20DE...;New%20technologies%20and%20methodologi...;Based%20in%20Th%C3%A1i%20Nguy%C3%AAn)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=635&lines=WEB%20%7C%20DESKTOP%20APP%20%7C%20EXTENSION%20DE...;New%20technologies%20and%20methodologi...;Based%20in%20Th%C3%A1i%20Nguy%C3%AAn)](https://git.io/typing-svg)
 
 </div>
 
