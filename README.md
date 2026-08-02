@@ -1,44 +1,33 @@
-<div align="center">
+![👋 Hi, my name is Binh](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+![Profile views](https://komarev.com/ghpvc/?username=binh-dev-k2&label=Profile%20views&color=0e75b6&style=flat)
 
-# Hey, I'm Trần Nguyên Bình!
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=WEB%20%7C%20DESKTOP%20APP%20%7C%20EXTENSION%20DE...;New%20technologies%20and%20methodologi...;Based%20in%20Th%C3%A1i%20Nguy%C3%AAn)](https://git.io/typing-svg)
-
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Binh
+      </h1>
+    </summary>
+  </ul>
 </div>
 
-## 🚀 About Me
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="binhcoder02" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/binh-dev-k2" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-A proactive Full Stack Developer with 3 years of experience in developing websites, web applications, and desktop applications. Skilled in backend to frontend development using technologies like PHP, Laravel, Node.js, React.js, Vue.js, and Electron.js, with a strong focus on optimizing functionality and user experience. Committed to continuous learning and implementing new technologies to enhance product quality.
+ **<h3 align="left">A proactive Full Stack Developer with 3 years of experience in developing websites, web applications, and desktop applications. Skilled in backend to frontend development using technologies like PHP, Laravel, Node.js, React.js, Vue.js, and Electron.js, with a strong focus on optimizing functionality and user experience. Committed to continuous learning and implementing new technologies to enhance product quality.</h3>**
 
-- 🏢 Working at **** in **Thái Nguyên**
-- 🌱 Currently learning **New technologies and methodologies in software development.**
-- 💬 Ask me about **Full stack development, web application optimization, etc...**
-- ⚡ I LOVE CODEX <3
+**<h3 align="left">Rapid Fire</h3>**
 
-## 🛠️ Tech Stack
+- 💼 I'm currently working on: **💻 Developed a university admission platform using React, Vue and Laravel**
+- 🌱 I'm currently learning: **📚 New technologies and methodologies in software development**
+- 💬 Ask me about: **💡 Full stack development, web application optimization, etc...**
+- ⚡ Fun fact: **🎢 I LOVE CODEX, CLAUDE, etc... <3**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-333?style=for-the-badge&logo=reactdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-333?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron.js-333?style=for-the-badge&logo=electrondotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-333?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-333?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-333?style=for-the-badge&logo=redux&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-333?style=for-the-badge&logo=livewire&logoColor=white) ![Chrome Extension Development](https://img.shields.io/badge/Chrome%20Extension%20Development-333?style=for-the-badge&logo=chromeextensiondevelopment&logoColor=white) ![RESTful API Development](https://img.shields.io/badge/RESTful%20API%20Development-333?style=for-the-badge&logo=restfulapidevelopment&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-333?style=for-the-badge&logo=zustand&logoColor=white)
+ **<h3 align="left">Skills</h3>**
 
-## 📊 GitHub Stats
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="28" alt="PHP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="28" alt="Vue" style="margin-right: 4px"> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" height="28" alt="jQuery" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Laravel-F05032?logo=laravel&logoColor=white" height="28" alt="Laravel" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="28" alt="Redis" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="28" alt="GitHub Actions" style="margin-right: 4px"></div>
 
-<div align="center">
+ **<h3 align="left">Support Me</h3>**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binh-dev-k2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=binh-dev-k2&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
-## 🔗 Connect with me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:binhcoder02@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/binh-dev-k2)
-
-</div>
-
-## 💖 Support
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/binhdevk2)
+<p align="left"><a href="https://buymeacoffee.com/binhdevk2" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" height="36" style="margin-right: 4px"></a></p>
